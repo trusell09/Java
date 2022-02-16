@@ -15,6 +15,7 @@ public class ArraysListPrac {
         //names.add("Murph");
         //names.add("Henryson");
         // names.remove(0);  would remove Murph from the list of names when printed 
+        // names.set(0, "New Name");  Sets the new value as "New Name" or whatever value given
         
         System.out.println(names);
         System.out.println(names.get(0));
