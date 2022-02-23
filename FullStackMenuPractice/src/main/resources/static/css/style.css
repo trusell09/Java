@@ -1,0 +1,20 @@
+@charset "UTF-8";
+h1{
+    background-color: aquamarine;
+}
+
+table, th, td{
+    background-color: whitesmoke;
+    font-size: 50px;
+    border-style: dotted;
+    border-color: black;
+}
+
+form{
+    width: 200px;
+    height: 400px;
+    border-style: double;
+    border-color: black;
+    background-color: bisque;
+}
+
