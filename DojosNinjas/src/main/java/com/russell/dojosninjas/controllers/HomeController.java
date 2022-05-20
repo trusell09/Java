@@ -28,7 +28,6 @@ public class HomeController {
 		//whenever a render form is wanted, send an empty object to the form using the view model so that the form can bind to the empty object and have validations  
 	model.addAttribute("dojo", new Dojo());	
 		
-
 		return "dojoPage.jsp";
 	}
 
